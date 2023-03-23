@@ -5,8 +5,8 @@ This is an automated script which installs as well deloy the Cuckoo Sandbox whic
 Ubuntu 18.04 (Used this specified version only)*
 
 ## Usage 🧑‍🔧
-git clone 
-bash CuckooScript.sh 
+git clone https://github.com/jaygajjar96/InstallCuckoo.git  
+bash CuckooScript.sh or ./CuckooScript.sh
 
 ## Happy Analysis, From Malware ;)
 
