@@ -9,6 +9,7 @@ git clone https://github.com/jaygajjar96/InstallCuckoo.git
 bash CuckooScript.sh or ./CuckooScript.sh
 
 ## Happy Analysis, From Malware ;)
+## Script By Jay Gajjar
 
 *Select "Yes" option if any GUI window Pops-up during Installation !!
 
